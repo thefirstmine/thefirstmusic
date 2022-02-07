@@ -1,0 +1,25 @@
+{
+  "name": "thefirstmusic",
+  "version": "1.0.0",
+  "description": "A Discord Music bot built in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefirstmine/thefirstmusic.git"
+  },
+  "author": "TheFirstMine",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thefirstmine/thefirstmusic/issues"
+  },
+  "homepage": "https://github.com/thefirstmine/thefirstmusic#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "glob": "^7.2.0",
+    "mongoose": "^6.2.0"
+  }
+}
